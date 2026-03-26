@@ -1,7 +1,7 @@
 # MTCFD
 AM 공정 중 laser scan에 따른 melt pool 형상, 거동을 예측함으로써 이에 따른 macroscopic defect 형성 및 기화로 인한 조성 변화를 에측하기 위한 Computational Fluid Dynamics simulation
 
-# thermo-fluid-sensitivity-keyhole-am
+# MTCFD
 Repository containing code and data accompanying the paper "Thermo-Fluid Simulation-Based Sensitivity Analysis of Thermophysical Properties Affecting Keyhole Depth in Metal Additive Manufacturing".
 
 This code is based on the OpenFOAM solver laserbeamFoam.
